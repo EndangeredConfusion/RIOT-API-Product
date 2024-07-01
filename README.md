@@ -2,7 +2,7 @@
 RIOT-API-product
 
 `python -m venv venv`  
-`venv/sctipts/activate`  
+`venv/scripts/activate`  
 `pip install -r requirements.txt`
 
 run webap with:
